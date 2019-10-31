@@ -5,6 +5,9 @@ This program will extrat password hash from shadow file and compre the password 
 ## usgae
 
 **switch to root**
+
 $su 
+
 **run the programe**
+
 $./userAuth
